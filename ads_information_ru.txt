@@ -1,0 +1,20 @@
+{"Items":[
+	{
+		"BANNER":"MIN_BANNER_CROCODILE_OFLINE",
+		"TYPE":"MIN",
+		"BANNER_VERSION_ADS":"19.01.21",
+		"TITLE":"CROCODILE",
+		"URL_REFERRER":"https://play.google.com/store/apps/details?id=com.Seryi62.PaintGame",
+		"URL_ICON_ADS":"https://seryi62.github.io/Png_T_Crocodile_2.png",
+		"TEXT_ADS":" "
+	},
+	{
+		"BANNER":"BIG_BANNER_CROCODILE_OFLINE",
+		"TYPE":"BIG",
+		"BANNER_VERSION_ADS":"19.01.21",
+		"TITLE":"CROCODYLE. SUPER GAME",
+		"URL_REFERRER":"https://play.google.com/store/apps/details?id=com.Seryi62.PaintGame",
+		"URL_ICON_ADS":"https://seryi62.github.io/Png_T_Crocodile_2.png",
+		"TEXT_ADS":"ИГРАЙ В ЛЮБИМУЮ ИГРУ КРОКОДИЛ С ДРУЗЬЯМИ ПО WI-FI. РИСУЙ ЗАГАДКИ - ПУСТЬ ТВОИ ДРУЗЬЯ ПОПРОБУЮТ ИХ РАЗГАДАТЬ!!!"
+	}]
+}
